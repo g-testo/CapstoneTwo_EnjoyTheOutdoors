@@ -11,15 +11,20 @@ Description:
 
 This is the landing page for our website and it includes navigation and highlights things people can to enjoy the great outdoors.
 
-![alt text](screenshots/home.png)
+![alt text](screenshots/home.png =x250)
 
 ## Things to do
-![alt text](screenshots/thingsToDo.png)
+<img src="screenshots/thingsToDo.png" width="300" />
 
 ## Travel
 ![alt text](screenshots/travel.png)
 
 ## Interesting Code Snippet
+
+What makes this code interesting is:
+- Very efficient and very maintainable
+- It's also scalable
+
 
 ```
     const locations = [
