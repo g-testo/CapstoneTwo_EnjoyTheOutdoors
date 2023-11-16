@@ -11,13 +11,18 @@ Description:
 
 This is the landing page for our website and it includes navigation and highlights things people can to enjoy the great outdoors.
 
-![alt text](screenshots/home.png =x250)
+<img src="screenshots/home.png" align="center" width="300" />
 
 ## Things to do
-<img src="screenshots/thingsToDo.png" width="300" />
+
+Placeholder Text...
+
+<img src="screenshots/thingsToDo.png" align="center" width="300" />
 
 ## Travel
-![alt text](screenshots/travel.png)
+Placeholder Text...
+
+<img src="screenshots/travel.png" align="center" width="300" />
 
 ## Interesting Code Snippet
 
