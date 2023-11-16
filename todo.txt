@@ -1,0 +1,6 @@
+It must contain an informative README that:
+- describes your project
+- includes images of each of the site's pages
+- describes/shows one interesting piece of JavaScript that you wrote
+
+- Link pages within github
