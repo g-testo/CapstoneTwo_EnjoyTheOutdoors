@@ -11,18 +11,24 @@ Description:
 
 This is the landing page for our website and it includes navigation and highlights things people can to enjoy the great outdoors.
 
-<img src="screenshots/home.png" align="center" width="300" />
+<p align="center" width="100%">
+    <img width="70%" src="screenshots/home.png"> 
+</p>
 
 ## Things to do
 
 Placeholder Text...
 
-<img src="screenshots/thingsToDo.png" align="center" width="300" />
+<p align="center" width="100%">
+    <img width="70%" src="screenshots/thingsToDo.png"> 
+</p>
 
 ## Travel
 Placeholder Text...
 
-<img src="screenshots/travel.png" align="center" width="300" />
+<p align="center" width="100%">
+    <img width="70%" src="screenshots/travel.png"> 
+</p>
 
 ## Interesting Code Snippet
 
