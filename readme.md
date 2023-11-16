@@ -1,5 +1,9 @@
 # Capstone 2: Enjoy the outdoors
 
+<p align="center" width="100%">
+    <img width="80%" src="screenshots/main.jpeg" /> 
+</p>    
+
 Description:
 - HTML, CSS and JS project
 - It involves finding national parks using dropdowns
